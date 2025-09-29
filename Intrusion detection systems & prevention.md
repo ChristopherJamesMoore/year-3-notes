@@ -56,7 +56,7 @@ IDS can be classified according to three factors:
 - The response mechanisms which are triggered as a result of generated alerts
 ![[Pasted image 20250929113541.png]]
 
-<b>Types of IDSs</i>
+<b>Types of IDSs</b>
 <b><i><u>Host</b></i></u>
 Utilises two types of information sources, operating system audit trails, and system logs
 <b><i><u>Network</b></i></u>
